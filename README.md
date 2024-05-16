@@ -58,7 +58,7 @@
   
  ✌️ &emsp; Passionate AI and Data Science student<br/><br/>
  ❤️ &emsp; Exploring the possibilities of AI and Data Science for real-world impact<br/><br/>
- 📧 &emsp; Reach me anytime: amine-sabbahi@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: sabbahi2000@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything and know more about me : 
 <a href="https://amine-sabbahi.github.io/id-kh/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="idriss-khattabi linkedin"/>
@@ -115,7 +115,7 @@
 <br/>
 
 ## Top Open Source :
-[![Covid-19 test flask Webapp](https://github-readme-stats.vercel.app/api/pin/?username=amine-sabbahi&repo=front-end-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/amine-sabbahi/Covid19-test-Web-app)
+[![Covid-19 test flask Webapp](https://github-readme-stats.vercel.app/api/pin/?username=amine-sabbahi&repo=Covid19-test-Web-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/amine-sabbahi/Covid19-test-Web-app)
 [![Machine Learning_From_Scratch](https://github-readme-stats.vercel.app/api/pin/?username=amine-sabbahi&repo=ML_From_Scratch&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/amine-sabbahi/ML_From_Scratch)
 
 [![My Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=amine-sabbahi&repo=id-kh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/amine-sabbahi/id-kh)
