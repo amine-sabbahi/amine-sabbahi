@@ -127,6 +127,13 @@
 
 <br/>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![SABBAHI's github activity graph](https://raw.githubusercontent.com/amine-sabbahi/amine-sabbahi/output/github-contribution-grid-snake.svg)
+
+
 ## Top Open Source :
 [![Covid-19 test flask Webapp](https://github-readme-stats.vercel.app/api/pin/?username=amine-sabbahi&repo=Covid19-test-Web-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/amine-sabbahi/Covid19-test-Web-app)
 [![Twitter Real Time Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=amine-sabbahi&repo=Twitter-Real-Time-Sentiment-Analysis&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/amine-sabbahi/Twitter-Real-Time-Sentiment-Analysis)
