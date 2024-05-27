@@ -131,7 +131,7 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![snake gif](https://github.com/amine-sabbahi/amine-sabbahi/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/amine-sabbahi/amine-sabbahi/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Top Open Source :
