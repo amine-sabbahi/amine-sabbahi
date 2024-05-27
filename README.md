@@ -15,7 +15,7 @@
 
 <p align="center"> 
   <samp>
-<!--     <a href="https://www.google.com/search?q=Ayman+Boufarhi">「 Google Me 」</a> -->
+<!--     <a href="https://www.google.com/search?q=Mohamed+Amine+Sabbahi">「 Google Me 」</a> -->
 <!--     <br> -->
     「 I am an AI & Data Science student from <b>Morocco</b> 」
     <!--「 I am an AI & Data Science student and Python Django Developer from <b>Morocco</b> 」-->
@@ -53,7 +53,7 @@
 
 <!-- About Section -->
  # About me
- 
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
