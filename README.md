@@ -11,8 +11,6 @@
                 <b><a target="_blank" href="https://www.linkedin.com/in/aminesb7">Mohamed Amine Sabbahi</a></b>
         </samp>
 </h3>
-
-
 <p align="center"> 
   <samp>
 <!--     <a href="https://www.google.com/search?q=Mohamed+Amine+Sabbahi">「 Google Me 」</a> -->
@@ -23,7 +21,6 @@
     <br>
   </samp>
 </p>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/aminesb7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="idriss-khattabi linkedin"/>
@@ -55,7 +52,6 @@
  # About me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
-
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
@@ -65,12 +61,8 @@
  💬 &emsp; Ask me about anything and know more about me : 
 <a href="https://amine-sabbahi.github.io/id-kh/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="idriss-khattabi linkedin"/>
- </a>
-
+</a>
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Use To Code :
