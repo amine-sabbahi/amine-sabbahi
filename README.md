@@ -4,8 +4,7 @@
   <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
   <a href="https://github.com/amine-sabbahi/amine-sabbahi/graphs/contributors"><img src="https://img.shields.io/github/contributors/amine-sabbahi/amine-sabbahi?color=blue"></a>
   <a href="https://github.com/amine-sabbahi/amine-sabbahi/stargazers"><img src="https://img.shields.io/github/stars/amine-sabbahi/amine-sabbahi.svg?logo=github"></a> 
-  <a href="https://komarev.com/ghpvc/?username=amine-sabbahi">
-  <img align="center" src="https://komarev.com/ghpvc/?username=amine-sabbahi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /></a>
+  <img align="center" src="https://komarev.com/ghpvc/?username=amine-sabbahi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </p> 
   
 <!-- Intro  -->
