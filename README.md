@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="center"> 
+  <a href="https://github.com/amine-sabbahi/amine-sabbahi"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+  <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+  <a href="https://github.com/amine-sabbahi/amine-sabbahi/graphs/contributors"><img src="https://img.shields.io/github/contributors/amine-sabbahi/amine-sabbahi?color=blue"></a>
+  <a href="https://github.com/amine-sabbahi/amine-sabbahi/stargazers"><img src="https://img.shields.io/github/stars/amine-sabbahi/amine-sabbahi.svg?logo=github"></a> 
   <a href="https://komarev.com/ghpvc/?username=amine-sabbahi">
     <img align="center" src="https://komarev.com/ghpvc/?username=amine-sabbahi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+  </a>
 </p> 
   
 <!-- Intro  -->
