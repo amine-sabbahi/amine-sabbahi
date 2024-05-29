@@ -54,14 +54,14 @@
 <!-- About Section -->
  # About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+year+master+student;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
 
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
- ✌️ &emsp; Passionate AI and Data Science student<br/><br/>
- ❤️ &emsp; Exploring the possibilities of AI and Data Science for real-world impact<br/><br/>
- 📧 &emsp; Reach me anytime: sabbahi2000@gmail.com<br/><br/>
+ ✌️ &emsp; Passionate AI and Data Science student<br/>
+ ❤️ &emsp; Exploring the possibilities of AI and Data Science for real-world impact<br/>
+ 📧 &emsp; Reach me anytime: sabbahi2000@gmail.com<br/>
  💬 &emsp; Ask me about anything and know more about me : 
 <a href="https://amine-sabbahi.github.io/id-kh/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="idriss-khattabi linkedin"/>
