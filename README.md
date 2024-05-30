@@ -123,9 +123,30 @@
 <!-- 	![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 <!--node-red-->
 <br/>
+<hr/>
+<br/>
+<p align="center">
+  <a href="https://github.com/amine-sabbahi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amine-sabbahi&theme=radical&border=7F3FBF&background=0D1117" alt="Mohamed Amine Sabbahi's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amine-sabbahi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amine-sabbahi&theme=radical" alt="Mohamed Amine Sabbahi's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/amine-sabbahi"><img alt="Mohamed Amine Sabbahi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=amine-sabbahi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/amine-sabbahi"><img alt="Mohamed Amine Sabbahi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amine-sabbahi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+![Mohamed Amine Sabbahi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amine-sabbahi&bg_color=121212&color=00b3ff&line=db0000&point=ffffff&area=true&hide_border=true)
 
 <br/>
-
+<hr/>
+<br/>
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
@@ -146,26 +167,6 @@
 </p>
 
 <br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/amine-sabbahi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amine-sabbahi&theme=radical&border=7F3FBF&background=0D1117" alt="Mohamed Amine Sabbahi's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/amine-sabbahi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amine-sabbahi&theme=radical" alt="Mohamed Amine Sabbahi's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/amine-sabbahi"><img alt="Mohamed Amine Sabbahi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=amine-sabbahi&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/amine-sabbahi"><img alt="Mohamed Amine Sabbahi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=amine-sabbahi&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 
-![Mohamed Amine Sabbahi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amine-sabbahi&bg_color=121212&color=00b3ff&line=db0000&point=ffffff&area=true&hide_border=true)
+
