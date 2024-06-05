@@ -136,9 +136,14 @@
 <br/>
 <hr/>
 <br/>
+<<<<<<< HEAD
 
 <!--  GitHub stats graph -->
 ### GitHub Activity Graph 📈:
+=======
+<!--   GitHub stats graph -->
+###  📈 GitHub Activity Graph:
+>>>>>>> 0de1a82eb97e3e17db218c1365a9a13b147042bd
 
 <!--   green snake -->
 ![snake gif](https://github.com/amine-sabbahi/amine-sabbahi/blob/output/github-contribution-grid-snake.svg)
