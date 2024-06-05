@@ -136,11 +136,10 @@
 <br/>
 <hr/>
 <br/>
+
 <!--  GitHub stats graph -->
-### GitHub Activity Graph 📈:
-=======
-<!--   GitHub stats graph -->
-###  📈 GitHub Activity Graph:
+
+###  GitHub Activity Graph 📈:
 
 
 <!--   green snake -->
