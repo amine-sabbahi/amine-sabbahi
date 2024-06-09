@@ -33,10 +33,8 @@
  <!-- <a href="https://dev.to/MohamedAmineSabbahi" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MohamedAmineSabbahi" />
  </a> -->
-  <!-- 	![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
-  <!-- 	![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) -->
-  <a href="https://amine-sabbahi.github.io/id-kh/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  <a href="https://amine-sabbahi.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge" />
  </a>
   <a href="https://www.kaggle.com/mohamedaminesabbahi" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -64,8 +62,8 @@
  ❤️ &emsp; Exploring the possibilities of AI and Data Science for real-world impact<br/>
  📧 &emsp; Reach me anytime: sabbahi2000@gmail.com<br/>
  💬 &emsp; Ask me about anything and know more about me : 
-<a href="https://amine-sabbahi.github.io/id-kh/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="idriss-khattabi linkedin"/>
+<a href="https://amine-sabbahi.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge" alt="SABBAHI Portfolio"/>
 </a>
 </p>
 <br/>
