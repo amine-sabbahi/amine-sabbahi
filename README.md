@@ -50,11 +50,10 @@
   </a>  -->
 </p>
 <br />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/??color=%2336BCF7&center=true&vCenter=true&lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
+<br />
 <!-- About Section -->
  # About me
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/??color=%2336BCF7&center=true&vCenter=true&lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
 <p>
 <img align="right" width="350" src="/src/programmer.gif" alt="Coding gif" />
   
