@@ -50,9 +50,9 @@
   </a>  -->
 </p>
 <br />
-<p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/??color=%2336BCF7&center=true&vCenter=true&lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
-</p>
+
 
 <!-- About Section -->
  # About me
