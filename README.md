@@ -50,13 +50,14 @@
   </a>  -->
 </p>
 <br />
+<p>
 [![Typing SVG](https://readme-typing-svg.demolab.com/??color=%2336BCF7&center=true&vCenter=true&lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
-<br />
+</p>
+
 <!-- About Section -->
  # About me
 <p>
 <img align="right" width="350" src="/src/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Passionate AI and Data Science student<br/>
  ❤️ &emsp; Exploring the possibilities of AI and Data Science for real-world impact<br/>
  📧 &emsp; Reach me anytime: sabbahi2000@gmail.com<br/>
@@ -65,6 +66,8 @@
   <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge" alt="SABBAHI Portfolio"/>
 </a>
 </p>
+<br/>
+<br/>
 <br/>
 
 ## Use To Code :
