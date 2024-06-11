@@ -51,7 +51,7 @@
 </p>
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/??color=%2336BCF7&center=true&vCenter=true&lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/??color=%2336BCF7&center=true&lines=First+year+master+student;Software+Developer)](https://git.io/typing-svg)
 <!-- About Section -->
  # About me
 <p>
