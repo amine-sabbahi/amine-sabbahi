@@ -62,10 +62,7 @@
  ✌️ Passionate AI and Data Science student<br/>
  ❤️ Exploring the possibilities of AI and Data Science for real-world impact<br/>
  📧 Reach me anytime: sabbahi2000@gmail.com<br/>
- 💬 Ask me about anything and know more about me : 
-<a href="https://amine-sabbahi.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge" alt="SABBAHI Portfolio"/>
-</a>
+ 💬 Ask me about anything and know more about me in [here](https://amine-sabbahi.github.io)
 </p>
 
 <br/>
