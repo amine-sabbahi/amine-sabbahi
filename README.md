@@ -21,7 +21,6 @@
 <!--     <a href="https://www.google.com/search?q=Mohamed+Amine+Sabbahi">「 Google Me 」</a> -->
 <!--     <br> -->
     「 I am an AI & Data Science student from <b>Morocco</b> 」
-    <!--「 I am an AI & Data Science student and Python Django Developer from <b>Morocco</b> 」-->
     <br>
     <br>
   </samp>
@@ -53,8 +52,9 @@
 <p align="center">
   <a href="https://github.com/amine-sabbahi"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=First+year+Master+student;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
 </p>
+
 <!-- About Section -->
- # About me
+## About me
 <p>
 <img align="right" width="350" src="/src/animation.gif" alt="Coding man Sabbahi" />
 <br/>
