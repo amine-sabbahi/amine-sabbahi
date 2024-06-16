@@ -18,7 +18,6 @@
 </h3>
 <p align="center"> 
   <samp>
-<!--     <a href="https://www.google.com/search?q=Mohamed+Amine+Sabbahi">「 Google Me 」</a> -->
 <!--     <br> -->
     「 I am an AI & Data Science student from <b>Morocco</b> 」
     <br>
