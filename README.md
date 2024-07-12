@@ -34,7 +34,7 @@
  <!-- <a href="https://dev.to/MohamedAmineSabbahi" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MohamedAmineSabbahi" />
  </a> -->
-  <a href="https://amine-sabbahi.github.io/" target="_blank">
+  <a href="https://amine-sabbahi.github.io/portfolio" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge" />
  </a>
   <a href="https://www.kaggle.com/mohamedaminesabbahi" target="_blank">
@@ -65,7 +65,7 @@
  ✌️ Passionate AI and Data Science student<br/>
  ❤️ Exploring the possibilities of AI and Data Science for real-world impact<br/>
  📧 Reach me anytime: sabbahi2000@gmail.com<br/>
- 💬 Ask me about anything and know more about me in <a href="https://amine-sabbahi.github.io" target="_blank">here</a>
+ 💬 Ask me about anything and know more about me in <a href="https://amine-sabbahi.github.io/portfolio" target="_blank">here</a>
 </p>
 
 <br/>
