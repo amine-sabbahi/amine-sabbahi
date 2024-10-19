@@ -52,7 +52,7 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/amine-sabbahi"><a href="https://github.com/amine-sabbahi"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=First+year+Master+student;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/amine-sabbahi"><a href="https://github.com/amine-sabbahi"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Second+year+Master+student;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
 </p>
 
 <!-- About Section -->
@@ -62,10 +62,10 @@
 <br/>
 <br/>
 <br/>
- ✌️ Passionate AI and Data Science student<br/>
- ❤️ Exploring the possibilities of AI and Data Science for real-world impact<br/>
- 📧 Reach me anytime: sabbahi2000@gmail.com<br/>
- 💬 Ask me about anything and know more about me in <a href="https://amine-sabbahi.github.io/portfolio" target="_blank">here</a>
+ ✌️ Enthusiastic AI and Data Science student<br/>
+ ❤️ Driven by the potential of AI and Data Science to solve real-world challenges<br/>
+ 📧 Feel free to contact me anytime at: sabbahi2000@gmail.com<br/>
+ 💬 Curious about my work? Learn more about me on my <a href="https://amine-sabbahi.github.io/portfolio" target="_blank">portfolio</a>
 </p>
 
 <br/>
